@@ -1,0 +1,4 @@
+.idea
+/образец базы данных.xlsx
+/.yii/config/db.php
+/.yii/config/mail.php
